@@ -1,6 +1,4 @@
-# RL assignment 1 Report
-
-## This github repo is for CPSC 589 Spring '24 HW1
+# RL
 
 ### Collaborators
 
